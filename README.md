@@ -1,4 +1,5 @@
-Clone Spotify 🎧
+# Spotify's Clone 🎧
+
 A modern and interactive landing page that replicates the look and feel of Spotify's interface. This project provides a great example of creating a music streaming platform clone with engaging visuals and smooth interactivity.
 
 🌐 Live Demo
